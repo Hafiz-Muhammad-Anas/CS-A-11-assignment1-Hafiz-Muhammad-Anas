@@ -1,5 +1,5 @@
 link to personal site: https://hafiz-muhammad-anas.github.io/
-link to project site: https://github.com/CS-A-11/assignment1-Hafiz-Muhammad-Anas
+link to project site: https://github.com/Hafiz-Muhammad-Anas/CS-A-11-assignment1-Hafiz-Muhammad-Anas
 
 Assignment is pretty complex for me as i am using github for the first time.
 i enjoyed(:P) doing this for almost 4 to 5 hours, really.
